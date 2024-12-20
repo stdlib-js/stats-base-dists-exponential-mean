@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-20)
+
+<section class="features">
+
+### Features
+
+-   [`724d581`](https://github.com/stdlib-js/stdlib/commit/724d58131a5f47d333a0f062e56d489ce1605aa6) - add C implementation for `stats/base/dists/exponential/mean` [(#4046)](https://github.com/stdlib-js/stdlib/pull/4046)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3585](https://github.com/stdlib-js/stdlib/issues/3585)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`724d581`](https://github.com/stdlib-js/stdlib/commit/724d58131a5f47d333a0f062e56d489ce1605aa6) - **feat:** add C implementation for `stats/base/dists/exponential/mean` [(#4046)](https://github.com/stdlib-js/stdlib/pull/4046) _(by Prashant Kumar Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
