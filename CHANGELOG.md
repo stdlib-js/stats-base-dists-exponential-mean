@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`724d581`](https://github.com/stdlib-js/stdlib/commit/724d58131a5f47d333a0f062e56d489ce1605aa6) - **feat:** add C implementation for `stats/base/dists/exponential/mean` [(#4046)](https://github.com/stdlib-js/stdlib/pull/4046) _(by Prashant Kumar Yadav)_
 
