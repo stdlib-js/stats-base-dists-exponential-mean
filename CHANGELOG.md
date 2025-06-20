@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-15)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e967a55`](https://github.com/stdlib-js/stdlib/commit/e967a55e35636d97379e0ab525fc1f7c6755ca52) - **test:** update description to use correct term for lambda _(by Philipp Burckhardt)_
 -   [`0449885`](https://github.com/stdlib-js/stdlib/commit/044988596dc1f7bc9084033663a426ef366e564c) - **docs:** replace manual `for` loop in examples [(#7367)](https://github.com/stdlib-js/stdlib/pull/7367) _(by Harsh)_
 -   [`55636e4`](https://github.com/stdlib-js/stdlib/commit/55636e401a4c7c504a41ecb511dc6d55206fdc4a) - **docs:** fix closing comment tags _(by Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
